@@ -1,0 +1,5 @@
+<!--pages/hello/hello.wxml-->
+
+<view>
+  <text>{{motto}}</text>
+</view>
